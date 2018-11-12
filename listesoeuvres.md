@@ -18,7 +18,7 @@ Si votre document a été numérisé en mode image, indiquez comment vous avez p
 9. Vingt mille lieues sous les mers.  Jeanne Rolland
 10. Georges Sand. Laura- Voyage dans le cristal. Jean David
 11. Jules Verne. Voyage au centre de la terre. Mélanie Aubry
-12. Paul Féval. Les mystères de Londres.
+12. Paul Féval. Les mystères de Londres. Nataliia Vostrosablina
 13. Eugène Sue. Les mystères de Paris. Abbas Sonia
 14. Paul Otlet. Monde, essai d'universalisme.
 15. Jules Verne. au choix
